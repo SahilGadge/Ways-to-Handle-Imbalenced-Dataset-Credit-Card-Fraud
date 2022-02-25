@@ -1,0 +1,2 @@
+# Ways-to-Handle-Imbalenced-Dataset-Credit-Card-Fraud
+Imbalanced data is one of the major problem in the area of machine learning. This problem can be solved by analyzing the dataset in hand. There are several approaches that will help us to handle the problem of imbalanced classes. These are oversampling, underdamping, synthetic data generation (SMOTE), adaptive synthetic technique and ensemble methods. These methods are discussed in the sections below.
